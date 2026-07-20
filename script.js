@@ -112,7 +112,7 @@ console.log("Registartion Succesfull")
 
 console.error("Payment Failed")
 
-console.warn("Battery Low");
+console.warn("Battery Low")
 
 console.log("Loading")
 console.log("Welcome")
@@ -128,7 +128,7 @@ prompt("Your City")
 
 var product = "Laptop"
 
-console.log(product);
+console.log(product)
 
 var product="Mobile"
 console.log(product)
@@ -147,6 +147,11 @@ console.log(salary)
 const comp = "Google"
 
 console.log(comp)
+
+console.clear();
+
+
+
 
 
 
