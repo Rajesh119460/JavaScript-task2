@@ -208,6 +208,7 @@ console.log("Department:",emp.department)
 console.log("Salary:",emp.salary)
 console.log("Last Skill:",emp.skills[3])
 console.log("Permanent Status:" ,emp.permanent)
+console.clear();
     
 
 
